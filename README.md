@@ -14,15 +14,15 @@
    <img 
      align="left" 
      alt="GitHub Stats" 
-     height="200" 
+     height="180" 
      style="padding-right: 10px;" 
-     src="https://github-readme-stats.vercel.app/api?username=edilsonbim&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&show_icons=true" 
+     src="https://github-readme-stats.vercel.app/api?username=edilsonbim&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&show_icons=true" 
    />
  
  <img 
        align="left" 
        alt="GitHub Stats" 
-       height="200" 
+       height="180" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=edilsonbim&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
    />
  
